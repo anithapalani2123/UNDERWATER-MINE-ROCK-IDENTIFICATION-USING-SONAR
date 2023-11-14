@@ -24,10 +24,10 @@ identification.
 A suitable python environment
 Python packages:
 
-*1  pandas
-train_test_split
-LogisticRegression
-accuracy_score
+*  pandas
+*  train_test_split
+*  LogisticRegression
+*  accuracy_score
 
 The above packages can be manually installed using the pip commands as follows:
 ```
