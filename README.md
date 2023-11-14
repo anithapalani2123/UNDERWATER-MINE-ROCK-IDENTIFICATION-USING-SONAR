@@ -110,7 +110,8 @@ else:
 
 
 
-![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/c33b9b19-1b2e-4218-894b-48a563b03280)
+![mini](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/c7af5c63-0cf0-470e-8cae-01fe7bc99cbd)
+
 
 
 ## OUTPUT:
