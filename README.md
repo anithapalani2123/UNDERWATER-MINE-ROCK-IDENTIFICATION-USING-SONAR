@@ -1,5 +1,7 @@
 # UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR
 
+
+
 ## PROJECT OUTLINE:
 
 This mini-project aims to design and develop an underwater mine and rock identification system using sonar technology.
@@ -8,6 +10,7 @@ Sonar technology has emerged as a powerful tool for underwater exploration and t
 The project seeks to provide a cost-effective, reliable, and realtime solution for identifying potential underwater hazards to
 enhance safety and security for underwater operations.
 
+
 ## METHODOLOGY:
 In this project, we aim to develop an efficient machine-learning model to identify the object in an accurate manner. 
 We make use of a dataset,preprocess them, and feed them into a logistic regression model.
@@ -15,12 +18,13 @@ Logistic regression is a statistical and machine learning model commonly used fo
 predict one of two possible outcomes, typically denoted as 0 and 1.In this project, we use logistic regression for underwater mine and rock
 identification.
 
+
 ## REQUIREMENTS:
 
 A suitable python environment
 Python packages:
 
-pandas
+*1  pandas
 train_test_split
 LogisticRegression
 accuracy_score
