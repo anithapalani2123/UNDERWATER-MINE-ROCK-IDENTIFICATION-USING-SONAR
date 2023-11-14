@@ -94,6 +94,24 @@ if (prediction[0]=='R'):
 else:
   print('The object is a mine')
 ```
+## FLOW OF THE PROJECT:
+
+1. Load Dataset and Display Dataset
+2. Data Preprocessing :
+   * Explore Dataset
+   * Split Data
+3. Logistic Regression:
+   * Train Model
+   * Predictions
+4. Evaluate Model:
+   * Calculate Accuracy
+5. Output Prediction:
+   * Display Prediction
+
+
+
+![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/c33b9b19-1b2e-4218-894b-48a563b03280)
+
 
 ## OUTPUT:
 ![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/0219ecb4-ac6b-42f2-a2c4-cf923168269f)
