@@ -108,9 +108,9 @@ else:
 5. Output Prediction:
    * Display Prediction
 
-<img height="500" alt="flow" src= "https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/c7af5c63-0cf0-470e-8cae-01fe7bc99cbd" >
+<img height="800" alt="flow" src= "https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/c7af5c63-0cf0-470e-8cae-01fe7bc99cbd" >
 
-![mini](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/c7af5c63-0cf0-470e-8cae-01fe7bc99cbd)
+
 
 
 
