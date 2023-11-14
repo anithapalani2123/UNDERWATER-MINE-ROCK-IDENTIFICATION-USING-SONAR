@@ -21,13 +21,13 @@ identification.
 
 ## REQUIREMENTS:
 
-A suitable python environment
-Python packages:
+* A suitable python environment
 
-*  pandas
-*  train_test_split
-*  LogisticRegression
-*  accuracy_score
+* Python packages:
+  *  pandas
+  *  train_test_split
+  *  LogisticRegression
+  *  accuracy_score
 
 The above packages can be manually installed using the pip commands as follows:
 ```
