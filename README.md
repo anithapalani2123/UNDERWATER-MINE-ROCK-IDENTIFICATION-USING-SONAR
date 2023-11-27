@@ -37,7 +37,6 @@ pip install scikit-learn
 ```
 ## PROGRAM:
 
-```
 ### IMPORTING NECESSARY PACKAGES:
 ```
 import numpy as np
