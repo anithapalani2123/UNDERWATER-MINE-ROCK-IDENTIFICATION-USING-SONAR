@@ -124,7 +124,8 @@ print(f'The object is a {predicted_label}')
 5. Output Prediction:
    * Display Prediction
 
-<img height="800" alt="flow" src= "https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/c7af5c63-0cf0-470e-8cae-01fe7bc99cbd" >
+<img height="800" alt="flow" src= "![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/2bf97fdc-729d-4ead-96b3-2937d545ea4f)
+" >
 
 
 
