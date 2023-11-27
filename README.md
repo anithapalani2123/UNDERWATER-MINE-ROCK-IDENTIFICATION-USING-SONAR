@@ -127,6 +127,7 @@ print(f'The object is a {predicted_label}')
 
 ![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/44f0c772-9fae-4b08-b141-f152fea9df6a)
 
+![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/040f5080-df0d-477b-b0ba-b5cad021f940)
 
 
 
