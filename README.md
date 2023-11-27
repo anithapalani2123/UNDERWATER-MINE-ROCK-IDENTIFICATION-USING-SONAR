@@ -33,6 +33,8 @@ The above packages can be manually installed using the pip commands as follows:
 ```
 pip install pandas
 pip install scikit-learn
+pip install tensorflow
+
 
 ```
 # PROGRAM:
