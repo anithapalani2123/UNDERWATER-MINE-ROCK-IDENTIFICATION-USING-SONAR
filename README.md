@@ -116,16 +116,16 @@ print(f'The object is a {predicted_label}')
 2. Data Preprocessing :
    * Explore Dataset
    * Split Data
-3. Logistic Regression:
-   * Train Model
-   * Predictions
+3. Neural Network Model:
+   * Input Layer
+   * Hidden Layer
+   * Output Layer
 4. Evaluate Model:
    * Calculate Accuracy
 5. Output Prediction:
    * Display Prediction
 
 
-![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/44f0c772-9fae-4b08-b141-f152fea9df6a)
 
 ![image](https://github.com/anithapalani2123/UNDERWATER-MINE-ROCK-IDENTIFICATION-USING-SONAR/assets/94184990/040f5080-df0d-477b-b0ba-b5cad021f940)
 
